@@ -6,4 +6,3 @@ export interface Album {
   coverImage: string;
   tracks: Track[];
 }
-
